@@ -1,4 +1,4 @@
-# 🐘 Amazon Aurora PostgreSQL — 10-Lesson Course
+# 🐘 Amazon Aurora PostgreSQL — 10-Lessons Course
 
 ### Lesson 1 — Aurora PostgreSQL Fundamentals
 
